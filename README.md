@@ -6,7 +6,7 @@ You need to connect to USB1 (US1) connector to the host computer in order to pro
 
 <img src="https://github.com/intergalaktik/ulx4m-documentation/blob/main/pic/ulx4m-ld.png?raw=true" width="400">
 
-<img src="https://github.com/intergalaktik/ulx4m-documentation/blob/main/pic/ulx4m-ls.png?raw=true" width="400">
+<img src="https://github.com/intergalaktik/ulx4m-documentation/blob/main/pic/ulx4m-ls_nobg.png?raw=true" width="400">
 
 ## Download programmer
 
